@@ -1,0 +1,58 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+9,Butaritari,KI,83.17,few clouds,3.0707,172.7902,Isles Sunset Lodge
+13,Ormara,PK,83.23,clear sky,25.2088,64.6357,Crystal Beach and Camping Resort Ormara
+23,Avarua,CK,80.6,few clouds,-21.2078,-159.775,Paradise Inn
+38,Hithadhoo,MV,82.6,broken clouds,-0.6,73.0833,Scoop Guest House
+46,Kavieng,PG,84.27,overcast clouds,-2.5744,150.7967,Nusa Island Retreat
+56,Santa Marta,CO,84.2,broken clouds,11.2408,-74.199,Casa de Isabella
+57,Hambantota,LK,84.2,few clouds,6.1241,81.1185,Bungalow 63
+81,Vaini,TO,80.6,light rain,-21.2,-175.2,Keleti Beach Resort
+82,Nizwa,OM,84.4,scattered clouds,22.9333,57.5333,Orient Apartments
+83,Vaitape,PF,81.39,few clouds,-16.5167,-151.75,Conrad Bora Bora Nui
+93,San Andres,CO,82.4,scattered clouds,12.5847,-81.7006,Hotel Arena Blanca
+97,Esperance,AU,84.2,scattered clouds,-33.8667,121.9,Hospitality Esperance
+104,Pandan,PH,81.73,broken clouds,14.0453,124.1694,Bonifacio Lodge
+105,Atambua,ID,82.76,scattered clouds,-9.1061,124.8925,Pastori 1 Jemaat Polycarpus
+122,Isangel,VU,82.4,broken clouds,-19.55,169.2667,Tanna Lodge
+145,Hobyo,SO,84.15,overcast clouds,5.3505,48.5268,Halane Hotel and Restaurent
+147,Tautira,PF,82.4,light rain,-17.7333,-149.15,Pension Oaoa
+159,Buala,SB,84.76,light rain,-8.145,159.5921,Maringe Lagoon Lodge
+179,Kavaratti,IN,84.13,few clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+184,Puerto Escondido,MX,82.4,scattered clouds,15.85,-97.0667,Aldea del Bazar Hotel and Spa
+188,Funadhoo,MV,83.82,few clouds,6.15,73.2667,Dhaffalhu Tourist Lodge
+205,Eyl,SO,82.89,light rain,7.9803,49.8164,Amiin Hotel
+222,Biak,ID,83.41,broken clouds,-0.9131,122.8766,Penginapan Kim
+235,Manokwari,ID,81.93,overcast clouds,-0.8667,134.0833,Swiss Belhotel Manokwari
+237,General Nakar,PH,82.99,overcast clouds,14.7631,121.635,WMV Hotel & Restaurant
+252,Balabac,PH,84.47,broken clouds,7.9868,117.0645,Sing and Swing Lodge
+280,Ahuimanu,US,80.6,overcast clouds,21.4447,-157.8378,Paradise Bay Resort
+317,San Policarpo,PH,81.82,few clouds,12.1791,125.5072,JM Lodge
+321,Bonthe,SL,80.51,overcast clouds,7.5264,-12.505,Bonthe Holiday Village
+326,Saint-Georges,GD,80.6,few clouds,12.0564,-61.7485,Radisson Grenada Beach Resort
+346,Faanui,PF,81.39,few clouds,-16.4833,-151.75,Bora-Bora Pearl Beach Resort & Spa
+351,Miramar,US,81.0,clear sky,25.9873,-80.2323,Miramar
+373,Vanimo,PG,83.46,overcast clouds,-2.6741,141.3028,Vahmoneh Lodge Vanimo
+374,Fare,PF,81.5,clear sky,-16.7,-151.0167,Maitai Lapita Village Huahine
+394,Alofi,NU,84.2,broken clouds,-19.0595,-169.9187,Taloa Heights
+403,Papeete,PF,82.4,light rain,-17.5333,-149.5667,Tahiti Nui Hotel
+426,Doha,QA,82.4,scattered clouds,25.2867,51.5333,Movenpick Hotel Doha
+431,Batticaloa,LK,83.84,overcast clouds,7.7102,81.6924,Grand Star Guest House
+432,Pangai,TO,84.2,scattered clouds,-19.8,-174.35,Ha'apai Beach Resort
+444,Matara,LK,84.56,overcast clouds,5.9485,80.5353,Amaloh Boutique Resort
+455,Bandarbeyla,SO,82.71,overcast clouds,9.4942,50.8122,JABIR HOTEL
+481,Makakilo City,US,80.6,scattered clouds,21.3469,-158.0858,Marriott's Ko Olina Beach Club
+499,Riyadh,SA,80.6,clear sky,24.6877,46.7219,"InterContinental Riyadh, an IHG Hotel"
+502,Lakatoro,VU,82.71,scattered clouds,-16.0999,167.4164,Lakatoro Palm Lodge
+507,Neiafu,TO,84.2,scattered clouds,-18.65,-173.9833,Mystic Sands
+530,Porto Novo,BJ,82.4,light rain,6.4965,2.6036,Tour Eiffel Hotel Benin
+546,Tual,ID,83.05,broken clouds,-5.6667,132.75,Grand Vilia Hotel
+553,Salalah,OM,82.4,scattered clouds,17.0151,54.0924,HAMDAN PLAZA HOTEL SALALAH
+581,Massaguet,TD,83.14,overcast clouds,12.4755,15.4365,Alwatane
+584,Tecoanapa,MX,80.42,overcast clouds,16.5167,-98.75,Hotel Manglares
+599,Robertsport,LR,81.63,overcast clouds,6.7533,-11.3686,Kwepunha Retreat
+611,Alenquer,BR,80.6,scattered clouds,-1.9417,-54.7383,Josilene Castro
+613,Ewa Beach,US,80.6,scattered clouds,21.3156,-158.0072,Uncle Junior Robert
+618,Honiara,SB,84.72,broken clouds,-9.4333,159.95,Heritage Park Hotel
+620,Keta,GH,82.4,scattered clouds,5.9179,0.9879,A&Y Wild Camp Ghana
+647,Kirakira,SB,84.38,broken clouds,-10.4544,161.9205,SanBiz Lodge
+676,Villa Bruzual,VE,80.38,overcast clouds,9.3328,-69.1208,Edificio Guarente
